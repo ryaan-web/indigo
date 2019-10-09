@@ -1,0 +1,25 @@
+.hero-info {
+    margin-top:58px;
+    padding-bottom: 10px;
+    background: #fff;
+    padding-top: 30px;
+    box-shadow: 0px 1px 5px #cccccc;
+}
+.hero-info__container {
+    margin: 0 auto;
+}
+.hero-info__item {
+    
+}
+.hero_info__item-text {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.hero_info__item-label {
+    font-size: 13px;
+    font-weight: 400;
+    color: #8c8c8c!important;
+    line-height: 20px;
+}

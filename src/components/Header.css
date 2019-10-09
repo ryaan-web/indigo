@@ -1,0 +1,22 @@
+.header {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    background: #fff;
+}
+.header__ham  {
+    border: 0;
+}
+.header__logo {
+    text-align: left;
+}
+.header__nav-container {
+    text-align: right;
+}
+.header__navbar {
+    margin:0;
+    padding:0;
+}
+.header__navbar-link {
+    color: #777777!important;
+    font-weight: 600;
+}

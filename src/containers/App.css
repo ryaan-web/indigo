@@ -1,0 +1,8 @@
+.app {
+  font-size: 1em;
+  text-align: center;
+}
+.spacing {
+  min-width: 10px;
+  min-height: 10px;
+}

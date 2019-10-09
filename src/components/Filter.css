@@ -1,0 +1,31 @@
+.filter {
+    margin: auto;
+    padding: 20px 0;
+}
+
+@media screen and (max-width: 720px) {
+    .filter {
+        margin-top: 80px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .filter {
+        margin-top: 60px auto 0 auto;
+    }
+    .filter__content {
+        text-align: center!important;
+        display: inline;
+
+    }
+}
+.filter__content {
+    min-width: 50%;
+}
+.filter__filter-by {
+    margin-right: 20px;
+    background: #fff;
+}
+.filter__btn--light {
+    background: #fff;
+}
