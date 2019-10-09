@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb579779a17833a5925c2abb4565bbc6",
+    "revision": "bb47e4b2ed552289f6b65fb49dbdf0dd",
     "url": "/indigo/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indigo/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "30fc8c7b4b4f239f036e",
-    "url": "/indigo/static/css/main.6ebeec99.chunk.css"
+    "revision": "bd7ff2683c42c3795ec7",
+    "url": "/indigo/static/css/main.b84ccec9.chunk.css"
   },
   {
     "revision": "80b3c5f704f3c5958315",
     "url": "/indigo/static/js/2.6fa30b0d.chunk.js"
   },
   {
-    "revision": "30fc8c7b4b4f239f036e",
+    "revision": "bd7ff2683c42c3795ec7",
     "url": "/indigo/static/js/main.276cfff9.chunk.js"
   },
   {
